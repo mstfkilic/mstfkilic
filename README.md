@@ -2,12 +2,12 @@
 #### Software Developer
 ![Software Developer](https://ci4.googleusercontent.com/proxy/93JHj6hlpCKnjiA3KmswDuXPUrmgLzakz0v-_UOh5nfIpXxiSZ30tzqErD_xB47pkZ6xxSU1t1T5NfVkJDjEHrKCZMYwzQG8MrwS5TemeUcTOzyiupu4spsnfC1_OvU=s0-d-e1-ft#https://crello.com/project-previews/26abca3c-555f-4223-8d2b-aa4ad93c9b38.jpg)
 
-I'm software developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with  include Java, React Js,(Javascript), Postgresql. I'm working on devices's software which is used in datacenter also cargomatic's backend side.
+I'm software developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with  include Java,Spring Technologies, Relational Data Base as Postgresql,Kafka and Docker,Kubernetes for virtualization. 
 
-Skills: JAVA / REACT / JS / HTML / CSS/POSTGRESQL
+Skills: JAVA / SPRING / ANGULAR / SQL / KAFKA/ DOCKER
 
 - 🔭 I’m currently working on Human Resources Management System. 
-- 📫 How to reach me: mustafa.kilic@canovate.com 
+- 📫 How to reach me: mustafaa.kilic.info@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mstfkilic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Mustafa83662752)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.canovate.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](www.google.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](www.google.com)  
